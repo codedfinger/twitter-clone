@@ -32,6 +32,3 @@ The objective of this project is to practice and improve my knowledge of front-e
 2. Run `npm start` or `yarn start` and access `http://localhost:3000`.<br />
 
 <br />
-
-by Lucas Bicalho<br />
-[Linkedin](https://www.linkedin.com/in/lucasbicalho/) | [GitHub](https://github.com/LucasBicalho)
